@@ -60,7 +60,7 @@ just your specific question.
 
 To put it bluntly, you will never get a nasty response on Roppers for
 asking a question (Can't say the same about the rest of the internet).
-Anytime you find yourself lost in the sauce, I need you need to tell me
+Anytime you find yourself lost in the sauce, I need you to tell me
 so I can modify the course to help everyone else out. If the following
 tips on how to find answers for your questions don't work, post in the
 Slack in \#course_computing, or in \#techsupport if it is a general
